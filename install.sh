@@ -1,3 +1,6 @@
+# Copy hardware scan
+cp /etc/nixos/hardware-configuration.nix .
+
 # Backup previous config
 zip -r /etc/nixos.bak /etc/nixos
 

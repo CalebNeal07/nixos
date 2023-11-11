@@ -14,3 +14,5 @@
 | [Starship](https://starship.rs/) | Shell Prompt |
 | [Cascadia Code](https://github.com/microsoft/cascadia-code) | Font |
 | [Kitty](https://sw.kovidgoyal.net/kitty/) | Terminal Emulator |
+| [sddm]() | Desktop Manager |
+| [Firefox]() | Web Browser |
